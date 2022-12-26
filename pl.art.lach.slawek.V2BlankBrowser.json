@@ -1,7 +1,7 @@
 {
   "id": "pl.art.lach.slawek.V2BlankBrowser",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "41",
+  "runtime-version": "42",
   
   "finish-args" : [
   "--device=dri",
@@ -22,8 +22,8 @@
     "sources": [
     {
       "type": "git",
-      "url": "https://github.com/nintyfan/V2BlankBrowser.git",
-      "tag": "0.89.4"
+      "branch": "BETA",
+      "url": "https://github.com/nintyfan/V2BlankBrowser.git"
     }
     ]
   }
